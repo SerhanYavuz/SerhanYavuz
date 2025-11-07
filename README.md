@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SerhanYavuz
-- 👀 I’m interested in Crazy Mobile Apps
-- 🌱 I’m currently learning mobile development
+- 👀 I’m interested in WARHAMMER 40K
+- 🌱 I’m currently learning HAM RADIO (TA2SYW)
 - 💞️ I’m looking to collaborate on backend services
 - 📫 How to reach me serhanyavuz5@gmail.com
 
